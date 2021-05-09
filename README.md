@@ -32,5 +32,5 @@ Here are some ideas to get you started:
   
   <p float="left">
 
-<img src="https://www.oodlestechnologies.com/wp-content/uploads/2019/11/Hybrid-iOS-App-Development.png" width="1450" height="550" />
+<img src="https://insidegames.asia/wp-content/uploads/2014/03/ios.android.2.610.4001.jpg" width="1450" height="550" />
 </p>
