@@ -1,36 +1,41 @@
+<h1 align="center">Hi 👋, I'm Tasnuva Tavasum</h1>
+<h3 align="center">A passionate Full Stack Mobile Application developer from Bangladesh</h3>
+<h5 align="center">Im Working Since 2015 (As App Developer) 👋 Currently Working as an Professional full stack mobile application Developer 
+  ------------------------------> Can Develop Android & IOS Mobile Application - Including Web Admin Panel Using Laravel - API Development Using Laravel. 
+Mobile Application Development is my passion I love to do programming its my hobby & Daily Life Thing . Everyday Im learning & finding new things hope this will encourage me to work more & more . 
+</h5>
+<img src="https://icon-library.com/images/ios-android-icon/ios-android-icon-28.jpg" width="1450" height="350" />
 
-### Hi there 👋
-###  I m Happy To Know That You Just Visited My Github Profile
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tasnuvaoshin&label=Profile%20views&color=0e75b6&style=flat" alt="tasnuvaoshin" /> </p>
 
-<!--
-**TasnuvaOshin/TasnuvaOshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tasnuvaoshin" alt="tasnuvaoshin" /></a> </p>
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on ... Mobile Application Development 
-- 🌱 I’m currently learning ...   NPL For My Next Project
-- 👯 I’m looking to collaborate on ... Projects
-- 🤔 I’m looking for help with ... AI Related Works
-- 💬 Ask me about ... Mobile Application Development 
-- 📫 How to reach me: ... mail:tasnuva.oshin12@gmail.com  or visit https://tasnuva.xyz  or   https://www.youtube.com/channel/UCf_kr77VNwQBTG2Xy1EBCkw
-- 😄 Pronouns: ...       Tasnuva Tabassum Oshin
-- ⚡ Fun fact: ...     Dont Talk about Crush I only Know About App Crash 
+- 🔭 I’m currently working on **ERP System**
 
+- 🌱 I’m currently learning **React Framework**
 
+- 👯 I’m looking to collaborate on **AI Based Application**
 
+- 👨‍💻 All of my projects are available at [https://github.com/TasnuvaOshin](https://github.com/TasnuvaOshin)
 
-<p float="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1FpjQgwxQCJE2zGmUe3fG2lIUCde4bZCVHA&usqp=CAU" width="100" height="100" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIbfQn1TKalcF_RjBV1s0lVv2CteKkqHgX7A&usqp=CAU" width="100" height="100" />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwl2f2s7boEXV6EK9fhycbyaLRltJHWc-WOg&usqp=CAU" width="100" height="100" />
-  <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/06/7-2-1.jpg" width="100" height="100" />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Zt0YvNpTYXOXxSJYdBFBfVEh0qT_aCnSYQ&usqp=CAU" width="100" height="100" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcMzZ_5owLsj5bazF5mHVLorWBXGZntLRYpg&usqp=CAU" width="100" height="100" />
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd16MMfEMaYf6-wy0qcRj4coe3pSIuB1MJvQ&usqp=CAU" width="100" height="100" />
-  <img src="https://career.guru99.com/wp-content/uploads/2014/12/file-3220844882.jpg" width="100" height="100" />
-  </p>
-  
-  <p float="left">
+- 💬 Ask me about **Android,IOS,Laravel**
 
-<img src="https://insidegames.asia/wp-content/uploads/2014/03/ios.android.2.610.4001.jpg" width="1450" height="550" />
+- 📫 How to reach me **tasnuva.oshin12@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/tasnuvaoshin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tasnuvaoshin" height="30" width="40" /></a>
+<a href="https://twitter.com/tasnuvaoshin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tasnuvaoshin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tasnuvaoshin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tasnuvaoshin/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/8480069/tasnuva-tavasum-oshin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8480069/tasnuva-tavasum-oshin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucf_kr77vnwqbtg2xy1ebckw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucf_kr77vnwqbtg2xy1ebckw" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasnuvaoshin&show_icons=true&locale=en&layout=compact" alt="tasnuvaoshin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasnuvaoshin&show_icons=true&locale=en" alt="tasnuvaoshin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasnuvaoshin&" alt="tasnuvaoshin" /></p>
