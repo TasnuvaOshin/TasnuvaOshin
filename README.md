@@ -36,6 +36,5 @@ Mobile Application Development is my passion I love to do programming its my hob
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasnuvaoshin&show_icons=true&locale=en&layout=compact" alt="tasnuvaoshin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasnuvaoshin&show_icons=true&locale=en" alt="tasnuvaoshin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasnuvaoshin&" alt="tasnuvaoshin" /></p>
